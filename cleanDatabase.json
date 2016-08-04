@@ -1,0 +1,418 @@
+{
+    "12607053": {
+        "name": "Waboku",
+        "type": "TRAP",
+        "subtype": "Normal",
+        "password": "12607053"
+    },
+    "13039848": {
+        "name": "Giant Soldier of Stone",
+        "level": 3,
+        "atk": 1300,
+        "def": 2000,
+        "type": "MONSTER",
+        "subtype": "Rock",
+        "attribute": "Earth",
+        "password": "13039848"
+    },
+    "13429800": {
+        "name": "Great White",
+        "level": 4,
+        "atk": 1600,
+        "def": 800,
+        "type": "MONSTER",
+        "subtype": "Fish",
+        "attribute": "Water",
+        "password": "13429800"
+    },
+    "13723605": {
+        "name": "Man-Eating Treasure Chest",
+        "level": 4,
+        "atk": 1600,
+        "def": 1000,
+        "type": "MONSTER",
+        "subtype": "Fiend",
+        "attribute": "Dark",
+        "password": "13723605"
+    },
+    "13945283": {
+        "name": "Wall of Illusion",
+        "level": 4,
+        "atk": 1000,
+        "def": 1850,
+        "type": "EFFECT",
+        "subtype": "Fiend",
+        "attribute": "Dark",
+        "password": "13945283"
+    },
+    "15025844": {
+        "name": "Mystical Elf",
+        "level": 4,
+        "atk": 800,
+        "def": 2000,
+        "type": "MONSTER",
+        "subtype": "Spellcaster",
+        "attribute": "Light",
+        "password": "15025844"
+    },
+    "16972957": {
+        "name": "Doma the Angel of Silence",
+        "level": 5,
+        "atk": 1600,
+        "def": 1400,
+        "type": "MONSTER",
+        "subtype": "Fairy",
+        "attribute": "Dark",
+        "password": "16972957"
+    },
+    "17814387": {
+        "name": "Reinforcements",
+        "type": "TRAP",
+        "subtype": "Normal",
+        "password": "17814387"
+    },
+    "19159413": {
+        "name": "De-Spell",
+        "type": "MAGIC",
+        "subtype": "Normal",
+        "password": "19159413"
+    },
+    "28279543": {
+        "name": "Curse of Dragon",
+        "level": 5,
+        "atk": 2000,
+        "def": 1500,
+        "type": "MONSTER",
+        "subtype": "Dragon",
+        "attribute": "Dark",
+        "password": "28279543"
+    },
+    "32452818": {
+        "name": "Beaver Warrior",
+        "level": 4,
+        "atk": 1200,
+        "def": 1500,
+        "type": "MONSTER",
+        "subtype": "Beast Warrior",
+        "attribute": "Earth",
+        "password": "32452818"
+    },
+    "36304921": {
+        "name": "Witty Phantom",
+        "level": 4,
+        "atk": 1400,
+        "def": 1300,
+        "type": "MONSTER",
+        "subtype": "Fiend",
+        "attribute": "Dark",
+        "password": "36304921"
+    },
+    "37120512": {
+        "name": "Sword of Dark Destruction",
+        "type": "MAGIC",
+        "subtype": "Equip",
+        "password": "37120512"
+    },
+    "40374923": {
+        "name": "Mammoth Graveyard",
+        "level": 3,
+        "atk": 1200,
+        "def": 800,
+        "type": "MONSTER",
+        "subtype": "Dinosaur",
+        "attribute": "Earth",
+        "password": "40374923"
+    },
+    "41218256": {
+        "name": "Claw Reacher",
+        "level": 3,
+        "atk": 1000,
+        "def": 800,
+        "type": "MONSTER",
+        "subtype": "Fiend",
+        "attribute": "Dark",
+        "password": "41218256"
+    },
+    "41392891": {
+        "name": "Feral Imp",
+        "level": 4,
+        "atk": 1300,
+        "def": 1400,
+        "type": "MONSTER",
+        "subtype": "Fiend",
+        "attribute": "Dark",
+        "password": "41392891"
+    },
+    "44209392": {
+        "name": "Castle Walls",
+        "type": "TRAP",
+        "subtype": "Normal",
+        "password": "44209392"
+    },
+    "46461247": {
+        "name": "Trap Master",
+        "level": 3,
+        "atk": 500,
+        "def": 1100,
+        "type": "EFFECT",
+        "subtype": "Warrior",
+        "attribute": "Earth",
+        "password": "46461247"
+    },
+    "46474915": {
+        "name": "Magical Ghost",
+        "level": 4,
+        "atk": 1300,
+        "def": 1400,
+        "type": "MONSTER",
+        "subtype": "Zombie",
+        "attribute": "Dark",
+        "password": "46474915"
+    },
+    "46986414": {
+        "name": "Dark Magician",
+        "level": 7,
+        "atk": 2500,
+        "def": 2100,
+        "type": "MONSTER",
+        "subtype": "Spellcaster",
+        "attribute": "Dark",
+        "password": "46986414"
+    },
+    "47060154": {
+        "name": "Mystic Clown",
+        "level": 4,
+        "atk": 1500,
+        "def": 1000,
+        "type": "MONSTER",
+        "subtype": "Fiend",
+        "attribute": "Dark",
+        "password": "47060154"
+    },
+    "48365709": {
+        "name": "Ansatsu",
+        "level": 5,
+        "atk": 1700,
+        "def": 1200,
+        "type": "MONSTER",
+        "subtype": "Warrior",
+        "attribute": "Earth",
+        "password": "48365709"
+    },
+    "49218300": {
+        "name": "Sorcerer of the Doomed",
+        "level": 4,
+        "atk": 1450,
+        "def": 1200,
+        "type": "MONSTER",
+        "subtype": "Spellcaster",
+        "attribute": "Dark",
+        "password": "49218300"
+    },
+    "50045299": {
+        "name": "Dragon Capture Jar",
+        "type": "TRAP",
+        "subtype": "Continuous",
+        "password": "50045299"
+    },
+    "50930991": {
+        "name": "Neo the Magic Swordsman",
+        "level": 4,
+        "atk": 1700,
+        "def": 1000,
+        "type": "MONSTER",
+        "subtype": "Spellcaster",
+        "attribute": "Light",
+        "password": "50930991"
+    },
+    "51482758": {
+        "name": "Remove Trap",
+        "type": "MAGIC",
+        "subtype": "Normal",
+        "password": "51482758"
+    },
+    "53129443": {
+        "name": "Dark Hole",
+        "type": "MAGIC",
+        "subtype": "Normal",
+        "password": "53129443"
+    },
+    "54652250": {
+        "name": "Man-Eater Bug",
+        "level": 2,
+        "atk": 450,
+        "def": 600,
+        "type": "EFFECT",
+        "subtype": "Insect",
+        "attribute": "Earth",
+        "password": "54652250"
+    },
+    "59197169": {
+        "name": "Yami",
+        "type": "MAGIC",
+        "subtype": "Field",
+        "password": "59197169"
+    },
+    "66672569": {
+        "name": "Dragon Zombie",
+        "level": 3,
+        "atk": 1600,
+        "def": 0,
+        "type": "MONSTER",
+        "subtype": "Zombie",
+        "attribute": "Dark",
+        "password": "66672569"
+    },
+    "66788016": {
+        "name": "Fissure",
+        "type": "MAGIC",
+        "subtype": "Normal",
+        "password": "66788016"
+    },
+    "68005187": {
+        "name": "Soul Exchange",
+        "type": "MAGIC",
+        "subtype": "Normal",
+        "password": "68005187"
+    },
+    "70781052": {
+        "name": "Summoned Skull",
+        "level": 6,
+        "atk": 2500,
+        "def": 1200,
+        "type": "MONSTER",
+        "subtype": "Fiend",
+        "attribute": "Dark",
+        "password": "70781052"
+    },
+    "72892473": {
+        "name": "Card Destruction",
+        "type": "MAGIC",
+        "subtype": "Normal",
+        "password": "72892473"
+    },
+    "77622396": {
+        "name": "Reverse Trap",
+        "type": "TRAP",
+        "subtype": "Normal",
+        "password": "77622396"
+    },
+    "80604091": {
+        "name": "Ultimate Offering",
+        "type": "TRAP",
+        "subtype": "Continuous",
+        "password": "80604091"
+    },
+    "83764718": {
+        "name": "Monster Reborn",
+        "type": "MAGIC",
+        "subtype": "Normal",
+        "password": "83764718"
+    },
+    "83887306": {
+        "name": "Two-Pronged Attack",
+        "type": "TRAP",
+        "subtype": "Normal",
+        "password": "83887306"
+    },
+    "84257639": {
+        "name": "Dian Keto the Cure Master",
+        "type": "MAGIC",
+        "subtype": "Normal",
+        "password": "84257639"
+    },
+    "85602018": {
+        "name": "Last Will",
+        "type": "MAGIC",
+        "subtype": "Normal",
+        "password": "85602018"
+    },
+    "86325596": {
+        "name": "Baron of the Fiend Sword",
+        "level": 4,
+        "atk": 1550,
+        "def": 800,
+        "type": "MONSTER",
+        "subtype": "Fiend",
+        "attribute": "Dark",
+        "password": "86325596"
+    },
+    "87557188": {
+        "name": "The Stern Mystic",
+        "level": 4,
+        "atk": 1500,
+        "def": 1200,
+        "type": "EFFECT",
+        "subtype": "Spellcaster",
+        "attribute": "Light",
+        "password": "87557188"
+    },
+    "87796900": {
+        "name": "Winged Dragon, Guardian of the Fortress #1",
+        "level": 4,
+        "atk": 1400,
+        "def": 1200,
+        "type": "MONSTER",
+        "subtype": "Dragon",
+        "attribute": "Wind",
+        "password": "87796900"
+    },
+    "90357090": {
+        "name": "Silver Fang",
+        "level": 3,
+        "atk": 1200,
+        "def": 800,
+        "type": "MONSTER",
+        "subtype": "Beast",
+        "attribute": "Earth",
+        "password": "90357090"
+    },
+    "91152256": {
+        "name": "Celtic Guardian",
+        "level": 4,
+        "atk": 1400,
+        "def": 1200,
+        "type": "MONSTER",
+        "subtype": "Warrior",
+        "attribute": "Earth",
+        "password": "91152256"
+    },
+    "91595718": {
+        "name": "Book of Secret Arts",
+        "type": "MAGIC",
+        "subtype": "Equip",
+        "password": "91595718"
+    },
+    "93221206": {
+        "name": "Ancient Elf",
+        "level": 4,
+        "atk": 1450,
+        "def": 1200,
+        "type": "MONSTER",
+        "subtype": "Spellcaster",
+        "attribute": "Light",
+        "password": "93221206"
+    },
+    "04031928": {
+        "name": "Change of Heart",
+        "type": "MAGIC",
+        "subtype": "Normal",
+        "password": "04031928"
+    },
+    "04206964": {
+        "name": "Trap Hole",
+        "type": "TRAP",
+        "subtype": "Normal",
+        "password": "04206964"
+    },
+    "06368038": {
+        "name": "Gaia the Fierce Knight",
+        "level": 7,
+        "atk": 2300,
+        "def": 2100,
+        "type": "MONSTER",
+        "subtype": "Warrior",
+        "attribute": "Earth",
+        "password": "06368038"
+    }
+}
