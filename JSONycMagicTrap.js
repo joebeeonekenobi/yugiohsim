@@ -6319,7 +6319,7 @@ MAGICTRAPCARDS = [
   ],
   [
     "Photon Generator Unit",
-    "Quick-Play",
+    "Quick-play",
     "66607691",
     "MAGIC"
   ]
