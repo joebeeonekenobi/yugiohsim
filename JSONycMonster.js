@@ -1,4 +1,4 @@
-MONSTERCARDS = [
+﻿MAGICTRAPCARDS = [
   [
     "3-Hump Lacooda",
     3,
@@ -16246,7 +16246,7 @@ MONSTERCARDS = [
     "Machine",
     1200,
     800,
-    86170989,
+    "86170989",
     "EFFECT"
   ],
   [
@@ -16636,7 +16636,8 @@ MONSTERCARDS = [
     "Machine",
     1700,
     1200,
-    67922702
+    "67922702",
+    "EFFECT"
   ],
   [
     "Cyber Twin Dragon",
